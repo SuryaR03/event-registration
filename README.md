@@ -29,8 +29,6 @@ Validate the HTML and CSS code.
 ### Step 7:
 Publish the website in the given URL.
 
-## DESIGN:
-
 ## PROGRAM :
 ### CSS CODE 
 ### Login Page:
