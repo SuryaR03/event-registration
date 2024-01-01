@@ -545,6 +545,9 @@ desktop-4-XoB {
 
 ```
 ## OUTPUT:
+![Screenshot 2024-01-01 210356](https://github.com/SuryaR03/event-registration/assets/147140237/8997851b-b4df-4e08-b58f-cab6cf14891a)
+![Screenshot 2024-01-01 210406](https://github.com/SuryaR03/event-registration/assets/147140237/2d313217-62e8-4457-ba0c-e5eae84375c1)
+![Screenshot 2024-01-01 210422](https://github.com/SuryaR03/event-registration/assets/147140237/dec13ec5-a621-4c31-b716-a071e992d089)
 
 
 ## Result:
